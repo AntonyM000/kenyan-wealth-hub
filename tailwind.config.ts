@@ -18,6 +18,10 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'playfair': ['"Playfair Display"', 'serif'],
+				'sans': ['Montserrat', 'system-ui', 'sans-serif'],
+			},
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
@@ -51,6 +55,22 @@ export default {
 				card: {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
+				},
+				kenya: {
+					red: '#BE0027',
+					green: '#006830',
+					black: '#1A1410',
+				  	gold: '#D4AF37',
+				  	earth: '#8B4513',
+				  	safari: '#E1C16E',
+				  	sunset: '#FD5E53',
+				},
+				finance: {
+					dark: '#0A2342',
+					primary: '#0E4174',
+					secondary: '#2F6690',
+				  	accent: '#5B9BD5',
+				  	light: '#D9E5F1',
 				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
