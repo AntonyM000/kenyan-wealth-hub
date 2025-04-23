@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
-            <h3 className="text-xl font-bold">Savannah<span className="text-kenya-gold">Capital</span></h3>
+            <h3 className="text-xl font-bold">ALA<span className="text-kenya-gold">Capital</span></h3>
             <p className="text-sm text-gray-300 max-w-xs">
               Kenya's premier fund management company, specializing in African markets and global opportunities.
             </p>
@@ -61,13 +61,13 @@ export function Footer() {
               <p>Westlands Road, Nairobi</p>
               <p>Kenya</p>
               <p className="pt-2">+254 (0) 722 123 456</p>
-              <p>info@savannahcapital.co.ke</p>
+              <p>info@alacapital.co.ke</p>
             </address>
           </div>
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-sm text-gray-400">© 2025 Savannah Capital. All rights reserved.</p>
+          <p className="text-sm text-gray-400">© 2025 ALA Capital. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link to="/privacy" className="text-sm text-gray-400 hover:text-white">Privacy Policy</Link>
             <Link to="/terms" className="text-sm text-gray-400 hover:text-white">Terms of Service</Link>

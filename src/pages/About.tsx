@@ -8,7 +8,7 @@ const About = () => {
     {
       name: "Dr. James Kariuki",
       position: "Chief Executive Officer",
-      bio: "Dr. Kariuki has over 20 years of experience in investment management with expertise in East African markets. Prior to founding Savannah Capital, he was a senior fund manager at a leading global asset management firm. James holds a PhD in Finance from Harvard University.",
+      bio: "Dr. Kariuki has over 20 years of experience in investment management with expertise in East African markets. Prior to founding ALA Capital, he was a senior fund manager at a leading global asset management firm. James holds a PhD in Finance from Harvard University.",
       image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
     },
     {
@@ -49,7 +49,7 @@ const About = () => {
       <div className="relative py-16 bg-finance-dark text-white">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6 font-playfair">About Savannah Capital</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6 font-playfair">About ALA Capital</h1>
             <p className="text-xl text-gray-200 mb-6">
               Kenya's leading investment management firm with a focus on delivering exceptional returns through deep local expertise and global insights.
             </p>
@@ -64,10 +64,10 @@ const About = () => {
             <div>
               <h2 className="text-3xl font-bold text-finance-dark mb-6 font-playfair">Our Story</h2>
               <p className="text-gray-700 mb-4">
-                Founded in 2008, Savannah Capital started with a vision to provide world-class investment management services tailored specifically for the East African market. What began as a small team managing KSh 100 million in assets has grown to become one of Kenya's leading fund managers with over KSh 25 billion under management.
+                Founded in 2008, ALA Capital started with a vision to provide world-class investment management services tailored specifically for the East African market. What began as a small team managing KSh 100 million in assets has grown to become one of Kenya's leading fund managers with over KSh 25 billion under management.
               </p>
               <p className="text-gray-700 mb-4">
-                Our name "Savannah" represents our deep roots in the East African landscape, while also embodying our forward-looking approach to finding growth opportunities across diverse economic environments.
+                Our name "ALA" represents our deep roots in the East African landscape, while also embodying our forward-looking approach to finding growth opportunities across diverse economic environments.
               </p>
               <p className="text-gray-700">
                 Today, we serve thousands of individual investors, corporations, and institutional clients, providing them with investment solutions that navigate local market complexities while tapping into global opportunities.
@@ -76,7 +76,7 @@ const About = () => {
             <div className="relative h-[400px] rounded-lg overflow-hidden shadow-xl">
               <img 
                 src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1770&q=80" 
-                alt="Savannah Capital Office" 
+                alt="ALA Capital Office" 
                 className="w-full h-full object-cover"
               />
             </div>
@@ -90,7 +90,7 @@ const About = () => {
           <div className="text-center max-w-3xl mx-auto mb-12">
             <h2 className="text-3xl font-bold text-finance-dark mb-6 font-playfair">Our Values</h2>
             <p className="text-gray-700">
-              At Savannah Capital, our core values guide every investment decision and client interaction.
+              At ALA Capital, our core values guide every investment decision and client interaction.
             </p>
           </div>
 

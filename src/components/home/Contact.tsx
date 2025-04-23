@@ -42,8 +42,8 @@ export function Contact() {
                 </div>
                 <div>
                   <h3 className="font-semibold text-lg text-kenya-gold">Email Us</h3>
-                  <p className="text-gray-200">info@savannahcapital.co.ke</p>
-                  <p className="text-gray-200">support@savannahcapital.co.ke</p>
+                  <p className="text-gray-200">info@alacapital.co.ke</p>
+                  <p className="text-gray-200">support@alacapital.co.ke</p>
                 </div>
               </div>
               

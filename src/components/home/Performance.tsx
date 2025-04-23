@@ -7,7 +7,7 @@ export function Performance() {
   // Sample performance data
   const performanceData = [
     {
-      fund: "Savannah Equity Growth Fund",
+      fund: "ALA Equity Growth Fund",
       oneYear: "18.4%",
       threeYear: "52.7%",
       fiveYear: "87.5%",

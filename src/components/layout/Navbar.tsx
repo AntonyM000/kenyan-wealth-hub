@@ -28,7 +28,7 @@ export function Navbar() {
           <Link to="/" className="flex items-center space-x-2">
             <div className="flex flex-col">
               <span className="text-2xl font-bold tracking-tight text-finance-dark flex items-center">
-                Savannah
+                ALA
                 <span className="text-kenya-gold ml-1">Capital</span>
               </span>
               <span className="text-xs text-muted-foreground">Premier Fund Management</span>
@@ -90,7 +90,7 @@ export function Navbar() {
                 <div className="px-7">
                   <Link to="/" className="flex items-center" onClick={() => setIsOpen(false)}>
                     <span className="text-2xl font-bold tracking-tight text-finance-dark">
-                      Savannah<span className="text-kenya-gold">Capital</span>
+                      ALA<span className="text-kenya-gold">Capital</span>
                     </span>
                   </Link>
                 </div>

@@ -12,7 +12,7 @@ const Services = () => {
       title: "Equity Funds",
       description: "Strategic long-term investments in companies listed on the Nairobi Securities Exchange and select international markets. Our equity funds target growth-oriented investors looking for capital appreciation over time.",
       features: [
-        "Savannah East African Equity Fund",
+        "Ala East African Equity Fund",
         "Kenya Top 50 Companies Fund",
         "Africa Growth Markets Fund",
         "Global Emerging Markets Fund",
@@ -277,7 +277,7 @@ const Services = () => {
               How to Invest With Us
             </h2>
             <p className="text-lg text-gray-600">
-              Getting started with Savannah Capital is simple and straightforward.
+              Getting started with Ala Capital is simple and straightforward.
             </p>
           </div>
 
@@ -333,7 +333,7 @@ const Services = () => {
               Frequently Asked Questions
             </h2>
             <p className="text-lg text-gray-600">
-              Get answers to common questions about investing with Savannah Capital.
+              Get answers to common questions about investing with Ala Capital.
             </p>
           </div>
 
@@ -355,7 +355,7 @@ const Services = () => {
             
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <h3 className="text-lg font-bold text-finance-dark mb-2">How are your funds regulated?</h3>
-              <p className="text-gray-600">Savannah Capital is regulated by the Capital Markets Authority (CMA) of Kenya. All our funds comply with the relevant regulatory requirements and are subject to regular audits and reporting.</p>
+              <p className="text-gray-600">Ala Capital is regulated by the Capital Markets Authority (CMA) of Kenya. All our funds comply with the relevant regulatory requirements and are subject to regular audits and reporting.</p>
             </div>
             
             <div className="bg-white p-6 rounded-lg shadow-sm">

@@ -11,13 +11,13 @@ import { Card, CardContent } from "@/components/ui/card";
 export function Testimonials() {
   const testimonials = [
     {
-      quote: "Savannah Capital has been instrumental in helping our family plan for retirement. Their understanding of local market conditions combined with global investment expertise has grown our portfolio beyond expectations.",
+      quote: "ALA Capital has been instrumental in helping our family plan for retirement. Their understanding of local market conditions combined with global investment expertise has grown our portfolio beyond expectations.",
       author: "John Kamau",
       position: "Retired Bank Executive",
       company: "Nairobi"
     },
     {
-      quote: "As a business owner, I needed a fund manager who understood both my personal investment goals and my company's pension scheme. The team at Savannah has provided valuable guidance on both fronts.",
+      quote: "As a business owner, I needed a fund manager who understood both my personal investment goals and my company's pension scheme. The team at ALA has provided valuable guidance on both fronts.",
       author: "Esther Njeri",
       position: "CEO",
       company: "Mombasa Freight Services"

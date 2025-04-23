@@ -56,8 +56,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg text-finance-dark mb-1">Email Us</h3>
-                    <p className="text-gray-600">info@savannahcapital.co.ke</p>
-                    <p className="text-gray-600">support@savannahcapital.co.ke</p>
+                    <p className="text-gray-600">info@alacapital.co.ke</p>
+                    <p className="text-gray-600">support@alacapital.co.ke</p>
                     <p className="text-sm text-gray-500 mt-1">We usually respond within 24 hours</p>
                   </div>
                 </div>
@@ -190,7 +190,7 @@ const Contact = () => {
                     <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path>
                     <circle cx="12" cy="10" r="3"></circle>
                   </svg>
-                  <p className="text-xl font-bold text-gray-600">Savannah Capital</p>
+                  <p className="text-xl font-bold text-gray-600">ala Capital</p>
                   <p className="text-gray-500">The Business Centre, 12th Floor</p>
                   <p className="text-gray-500">Westlands Road, Nairobi, Kenya</p>
                 </div>
@@ -224,7 +224,7 @@ const Contact = () => {
             </div>
             
             <div className="bg-gray-50 p-6 rounded-lg shadow-sm">
-              <h3 className="text-lg font-bold text-finance-dark mb-2">Is there a minimum investment amount to work with Savannah Capital?</h3>
+              <h3 className="text-lg font-bold text-finance-dark mb-2">Is there a minimum investment amount to work with Ala Capital?</h3>
               <p className="text-gray-600">Our minimum investment amounts vary by fund, starting from KSh 50,000 for fixed income funds. However, we're happy to discuss your specific situation during an initial consultation regardless of your investment amount.</p>
             </div>
             
@@ -242,7 +242,7 @@ const Contact = () => {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl font-bold mb-6 font-playfair">Ready to Take the Next Step?</h2>
             <p className="text-lg text-gray-200 mb-8">
-              Join thousands of satisfied investors who have trusted Savannah Capital with their financial future. Our team is ready to help you achieve your goals.
+              Join thousands of satisfied investors who have trusted Ala Capital with their financial future. Our team is ready to help you achieve your goals.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="bg-kenya-gold hover:bg-kenya-gold/90 text-black font-semibold">

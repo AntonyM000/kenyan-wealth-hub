@@ -12,7 +12,7 @@ const Performance = () => {
       description: "Our equity funds focus on long-term capital appreciation through investments in listed companies across East Africa and select international markets.",
       funds: [
         {
-          name: "Savannah East African Equity Fund",
+          name: "Ala East African Equity Fund",
           performance: {
             "1yr": "17.8%",
             "3yr": "51.2%",
@@ -183,7 +183,7 @@ const Performance = () => {
       description: "Our pension funds are designed to provide long-term growth and security for retirement planning with a balanced approach to risk and return.",
       funds: [
         {
-          name: "Savannah Retirement Growth Fund",
+          name: "Ala Retirement Growth Fund",
           performance: {
             "1yr": "14.2%",
             "3yr": "42.8%",
@@ -495,7 +495,7 @@ const Performance = () => {
             <div>
               <h2 className="text-3xl font-bold mb-6 font-playfair">Ready to Invest with a Proven Track Record?</h2>
               <p className="text-lg text-gray-200 mb-8">
-                Join thousands of satisfied investors who trust Savannah Capital with their financial future. Our consistent performance speaks for itself.
+                Join thousands of satisfied investors who trust Ala Capital with their financial future. Our consistent performance speaks for itself.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button asChild size="lg" className="bg-kenya-gold hover:bg-kenya-gold/90 text-black font-semibold">
@@ -514,7 +514,7 @@ const Performance = () => {
               <h3 className="text-xl font-bold mb-4 text-kenya-gold">Latest Performance Updates</h3>
               <div className="space-y-4">
                 <div className="flex justify-between items-center border-b border-white/10 pb-3">
-                  <span className="font-medium">Savannah East African Equity Fund</span>
+                  <span className="font-medium">Ala East African Equity Fund</span>
                   <span className="text-emerald-400">+17.8% YTD</span>
                 </div>
                 <div className="flex justify-between items-center border-b border-white/10 pb-3">
@@ -526,7 +526,7 @@ const Performance = () => {
                   <span className="text-emerald-400">+15.2% YTD</span>
                 </div>
                 <div className="flex justify-between items-center">
-                  <span className="font-medium">Savannah Retirement Growth Fund</span>
+                  <span className="font-medium">Ala Retirement Growth Fund</span>
                   <span className="text-emerald-400">+14.2% YTD</span>
                 </div>
               </div>
