@@ -9,37 +9,37 @@ const About = () => {
       name: "Dr. James Kariuki",
       position: "Chief Executive Officer",
       bio: "Dr. Kariuki has over 20 years of experience in investment management with expertise in East African markets. Prior to founding ALA Capital, he was a senior fund manager at a leading global asset management firm. James holds a PhD in Finance from Harvard University.",
-      image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+      image: "https://images.unsplash.com/photo-1605602517387-ec78b947335e?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       name: "Elizabeth Mwangi",
       position: "Chief Investment Officer",
       bio: "Elizabeth is a former financial analyst at Morgan Stanley with an MBA from Harvard Business School. She oversees the firm's investment strategies and manages our flagship equity fund. With her global perspective and local insights, Elizabeth has consistently delivered market-beating returns.",
-      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80"
+      image: "https://images.unsplash.com/photo-1563132337-f159f484226c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       name: "David Ochieng",
       position: "Head of Fixed Income",
       bio: "David brings over 15 years of experience specializing in bond markets and monetary policy analysis. He previously worked at the Central Bank of Kenya and holds a Masters in Economics from the London School of Economics. David's expertise in fixed income markets has made our bond funds among the most stable performers in the region.",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://images.unsplash.com/photo-1561515075-551b90143acb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       name: "Grace Kimani",
       position: "Director of Research",
       bio: "Grace is a former economist at the Central Bank of Kenya with a PhD in Economics from Stanford University. Her research team provides the analytical foundation for all our investment decisions, combining rigorous quantitative analysis with qualitative understanding of local market dynamics.",
-      image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://images.unsplash.com/photo-1512361436605-a484bdb34b5f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       name: "Michael Wainaina",
       position: "Head of Real Estate Investments",
       bio: "With over 15 years in the Kenyan real estate sector, Michael leads our property investment funds. His background in urban planning and development has been crucial in identifying high-potential projects across East Africa.",
-      image: "https://images.unsplash.com/photo-1506863530036-1efeddceb993?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://images.unsplash.com/photo-1648522168784-067e98df88c0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       name: "Janet Kamau",
       position: "Chief Risk Officer",
       bio: "Janet ensures our investments meet regulatory standards while protecting client assets. Her previous experience at KPMG and the Capital Markets Authority provides valuable oversight to our investment processes.",
-      image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+      image: "https://images.unsplash.com/photo-1579634151863-8ddedd098251?q=80&w=2022&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ];
 
